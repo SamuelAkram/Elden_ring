@@ -50,10 +50,12 @@ function showQuestion2(q2) {
 
             element.addEventListener('click', function(){
                if(q2.correctAnswer == index) {
-                document.getElementById('title2').innerHTML = "right answer!"
+                document.getElementById('title2').innerHTML = "right answer!";
+                document.getElementById('title2').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title2').innerHTML = "wrong answer!"
+                document.getElementById('title2').innerHTML = "wrong answer!";
+                document.getElementById('title2').style.backgroundColor = "red";
                }
             });
     });
@@ -79,10 +81,12 @@ function showQuestion3(q3) {
 
             element.addEventListener('click', function(){
                if(q3.correctAnswer == index) {
-                document.getElementById('title3').innerHTML = "right answer!"
+                document.getElementById('title3').innerHTML = "right answer!";
+                document.getElementById('title3').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title3').innerHTML = "wrong answer!"
+                document.getElementById('title3').innerHTML = "wrong answer!";
+                document.getElementById('title3').style.backgroundColor = "red";
                }
             });
     });
@@ -108,10 +112,12 @@ function showQuestion4(q4) {
 
             element.addEventListener('click', function(){
                if(q4.correctAnswer == index) {
-                document.getElementById('title4').innerHTML = "right answer!"
+                document.getElementById('title4').innerHTML = "right answer!";
+                document.getElementById('title4').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title4').innerHTML = "wrong answer!"
+                document.getElementById('title4').innerHTML = "wrong answer!";
+                document.getElementById('title4').style.backgroundColor = "red";
                }
             });
     });
@@ -137,10 +143,12 @@ function showQuestion5(q5) {
 
             element.addEventListener('click', function(){
                if(q5.correctAnswer == index) {
-                document.getElementById('title5').innerHTML = "right answer!"
+                document.getElementById('title5').innerHTML = "right answer!";
+                document.getElementById('title5').style.backgroundColor = "green";
                }
                else {
                 document.getElementById('title5').innerHTML = "wrong answer!"
+                document.getElementById('title5').style.backgroundColor = "red";
                }
             });
     });
@@ -166,10 +174,12 @@ function showQuestion6(q6) {
 
             element.addEventListener('click', function(){
                if(q6.correctAnswer == index) {
-                document.getElementById('title6').innerHTML = "right answer!"
+                document.getElementById('title6').innerHTML = "right answer!";
+                document.getElementById('title6').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title6').innerHTML = "wrong answer!"
+                document.getElementById('title6').innerHTML = "wrong answer!";
+                document.getElementById('title6').style.backgroundColor = "red";
                }
             });
     });
@@ -195,10 +205,12 @@ function showQuestion7(q7) {
 
             element.addEventListener('click', function(){
                if(q7.correctAnswer == index) {
-                document.getElementById('title7').innerHTML = "right answer!"
+                document.getElementById('title7').innerHTML = "right answer!";
+                document.getElementById('title7').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title7').innerHTML = "wrong answer!"
+                document.getElementById('title7').innerHTML = "wrong answer!";
+                document.getElementById('title7').style.backgroundColor = "red";
                }
             });
     });
@@ -224,10 +236,12 @@ function showQuestion8(q8) {
 
             element.addEventListener('click', function(){
                if(q8.correctAnswer == index) {
-                document.getElementById('title8').innerHTML = "right answer!"
+                document.getElementById('title8').innerHTML = "right answer!";
+                document.getElementById('title8').style.backgroundColor = "green";
                }
                else {
                 document.getElementById('title8').innerHTML = "wrong answer!"
+                document.getElementById('title8').style.backgroundColor = "red";
                }
             });
     });
@@ -253,10 +267,12 @@ function showQuestion9(q9) {
 
             element.addEventListener('click', function(){
                if(q9.correctAnswer == index) {
-                document.getElementById('title9').innerHTML = "right answer!"
+                document.getElementById('title9').innerHTML = "right answer!";
+                document.getElementById('title9').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title9').innerHTML = "wrong answer!"
+                document.getElementById('title9').innerHTML = "wrong answer!";
+                document.getElementById('title9').style.backgroundColor = "red";
                }
             });
     });
@@ -282,10 +298,12 @@ function showQuestion10(q10) {
 
             element.addEventListener('click', function(){
                if(q10.correctAnswer == index) {
-                document.getElementById('title10').innerHTML = "right answer!"
+                document.getElementById('title10').innerHTML = "right answer!";
+                document.getElementById('title10').style.backgroundColor = "green";
                }
                else {
-                document.getElementById('title10').innerHTML = "wrong answer!"
+                document.getElementById('title10').innerHTML = "wrong answer!";
+                document.getElementById('title10').style.backgroundColor = "red";
                }
             });
     });
