@@ -1,7 +1,7 @@
 let question1 = {
-    title: 'what class is the easiest to play for new players?',
+    title: 'what class has the best starting stats',
     alternatives:['wrench', 'warrior', 'thief', 'samurai'],
-    correctAnswer: 3
+    correctAnswer: 0
 }
 
 function showQuestion1(q) {
@@ -64,8 +64,8 @@ function showQuestion2(q2) {
 showQuestion2(question2);
 
 let question3 = {
-    title3: 'how many stages does the final boss fight?',
-    alternatives3:['1 stage', '3 stages', '4 stages', '2 stages'],
+    title3: 'how do you get feathers?',
+    alternatives3:['from dragons.', 'buying', 'crafting', 'from birds'],
     correctAnswer: 3
 }
 
@@ -95,9 +95,9 @@ function showQuestion3(q3) {
 showQuestion3(question3);
 
 let question4 = {
-    title4: 'with what weapons does the wrench class start?',
-    alternatives4:['A club', 'A dagger', 'A axe', 'A sword'],
-    correctAnswer: 0
+    title4: 'how to get weapons?',
+    alternatives4:['from a merchant', 'from emenies', 'crafting', 'fishing'],
+    correctAnswer: 1
 }
 
 function showQuestion4(q4) {
@@ -126,9 +126,9 @@ function showQuestion4(q4) {
 showQuestion4(question4);
 
 let question5 = {
-    title5: 'what is the drop chance for godrick soldier greaves?',
-    alternatives5:['10%', '3%', '8%', '1%'],
-    correctAnswer: 1
+    title5: 'how to get godrick soldier greaves?',
+    alternatives5:['fishing', 'from a godrick soldier', 'crafting', 'from a quest'],
+    correctAnswer: 2
 }
 
 function showQuestion5(q5) {
@@ -157,9 +157,9 @@ function showQuestion5(q5) {
 showQuestion5(question5);
 
 let question6 = {
-    title6: 'where do you find the whetstone blade?',
+    title6: 'how to get a whetstone blade?',
     alternatives6:['under the first ruins', 'from a boss', 'crafting', 'from a boss'],
-    correctAnswer: 0
+    correctAnswer: 1
 }
 
 function showQuestion6(q6) {
@@ -188,9 +188,9 @@ function showQuestion6(q6) {
 showQuestion6(question6);
 
 let question7 = {
-    title7: 'what is the first shard-bearer boss fight?',
+    title7: 'what is the first boss?',
     alternatives7:['margit', 'rennala', 'godrick', 'star scourge radahn'],
-    correctAnswer: 2
+    correctAnswer: 1
 }
 
 function showQuestion7(q7) {
@@ -219,9 +219,9 @@ function showQuestion7(q7) {
 showQuestion7(question7);
 
 let question8 = {
-    title8: 'which bleed weapon procs the most bleed per light attack?',
+    title8: 'what is the best bleed weapon?',
     alternatives8:['Rivers of Blood', 'dagger', 'moonveil katana', 'Eleonora Poleblade'],
-    correctAnswer: 0
+    correctAnswer: 1
 }
 
 function showQuestion8(q8) {
@@ -250,7 +250,7 @@ function showQuestion8(q8) {
 showQuestion8(question8);
 
 let question9 = {
-    title9: 'which fate weapon has the highest fate scaling?',
+    title9: 'what is the best faith weapon?',
     alternatives9:['erdtree Bow', 'Marika Hammer', 'Blade of Calling', 'sword of night and flame'],
     correctAnswer: 3
 }
@@ -281,9 +281,9 @@ function showQuestion9(q9) {
 showQuestion9(question9);
 
 let question10 = {
-    title10: 'which one of these weapons has the highest magic scaling.',
+    title10: 'what is the best magic weapon?',
     alternatives10:['Dark Moon Greatsword', 'Moonveil', 'Wing of Astel', 'Glintstone Kris'],
-    correctAnswer: 1
+    correctAnswer: 2
 }
 
 function showQuestion10(q10) {
