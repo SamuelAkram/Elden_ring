@@ -64,9 +64,9 @@ function showQuestion2(q2) {
 showQuestion2(question2);
 
 let question3 = {
-    title3: 'how to get arrows?',
-    alternatives3:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
-    correctAnswer: 1
+    title3: 'how do you get feathers?',
+    alternatives3:['from dragons.', 'buying', 'crafting', 'from birds'],
+    correctAnswer: 3
 }
 
 function showQuestion3(q3) {
@@ -95,8 +95,8 @@ function showQuestion3(q3) {
 showQuestion3(question3);
 
 let question4 = {
-    title4: 'how to get arrows?',
-    alternatives4:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
+    title4: 'how to get weapons?',
+    alternatives4:['from a merchant', 'from emenies', 'crafting', 'fishing'],
     correctAnswer: 1
 }
 
@@ -126,9 +126,9 @@ function showQuestion4(q4) {
 showQuestion4(question4);
 
 let question5 = {
-    title5: 'how to get arrows?',
-    alternatives5:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
-    correctAnswer: 1
+    title5: 'how to get godrick soldier greaves?',
+    alternatives5:['fishing', 'from a godrick soldier', 'crafting', 'from a quest'],
+    correctAnswer: 2
 }
 
 function showQuestion5(q5) {
@@ -157,8 +157,8 @@ function showQuestion5(q5) {
 showQuestion5(question5);
 
 let question6 = {
-    title6: 'how to get arrows?',
-    alternatives6:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
+    title6: 'how to get a whetstone blade?',
+    alternatives6:['under the first ruins', 'from a boss', 'crafting', 'from a boss'],
     correctAnswer: 1
 }
 
@@ -188,8 +188,8 @@ function showQuestion6(q6) {
 showQuestion6(question6);
 
 let question7 = {
-    title7: 'how to get arrows?',
-    alternatives7:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
+    title7: 'what is the first boss?',
+    alternatives7:['margit', 'rennala', 'godrick', 'star scourge radahn'],
     correctAnswer: 1
 }
 
@@ -219,8 +219,8 @@ function showQuestion7(q7) {
 showQuestion7(question7);
 
 let question8 = {
-    title8: 'how to get arrows?',
-    alternatives8:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
+    title8: 'what is the best bleed weapon?',
+    alternatives8:['Rivers of Blood', 'dagger', 'moonveil katana', 'Eleonora Poleblade'],
     correctAnswer: 1
 }
 
@@ -250,9 +250,9 @@ function showQuestion8(q8) {
 showQuestion8(question8);
 
 let question9 = {
-    title9: 'how to get arrows?',
-    alternatives9:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
-    correctAnswer: 1
+    title9: 'what is the best faith weapon?',
+    alternatives9:['erdtree Bow', 'Marika Hammer', 'Blade of Calling', 'sword of night and flame'],
+    correctAnswer: 3
 }
 
 function showQuestion9(q9) {
@@ -281,9 +281,9 @@ function showQuestion9(q9) {
 showQuestion9(question9);
 
 let question10 = {
-    title10: 'how to get arrows?',
-    alternatives10:['fishing', 'crafting en buying en drops', 'crafting', 'drops'],
-    correctAnswer: 1
+    title10: 'what is the best magic weapon?',
+    alternatives10:['Dark Moon Greatsword', 'Moonveil', 'Wing of Astel', 'Glintstone Kris'],
+    correctAnswer: 2
 }
 
 function showQuestion10(q10) {
