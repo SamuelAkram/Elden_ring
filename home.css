@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.eldenringimage{
+    width:200px;
+    height:200px;
+    padding: 5px;
+}
+.godofwarimage{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+
+
+.quizzen{
+    display: grid;
+    grid-template-columns: 400px 400px;
+     padding:10px;
+     
+    position: absolute;
+    
+     
+}
+.grid-item{
+    
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  
+}
